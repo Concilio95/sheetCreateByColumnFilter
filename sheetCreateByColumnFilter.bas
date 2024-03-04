@@ -16,7 +16,7 @@ Sub sheetCreateByColumnFilter()
 top:
         On Error Resume Next
         '---------- Spanish version ----------
-        Set rangeTarget = Application.InputBox("Selecciona la columna a filtrar", "Crear hojas filtradas por valores únicos", , , , , , 8)
+        Set rangeTarget = Application.InputBox("Selecciona la columna a filtrar", "Crear hojas filtradas por valores Ãºnicos", , , , , , 8)
         '---------- English version ----------
         'Set rangeTarget = Application.InputBox("Select Field Name To Filter", "Range Input", , , , , , 8)
         On Error GoTo 0
