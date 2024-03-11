@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 'Attribute VB_Name = "sheetCreateByColumnFilter"
 Option Explicit
 
